@@ -11,10 +11,6 @@ This project will run three sorting algorithms: Merge Sort, Quick Sort, and Sele
 The arrays are printed after each pass of the sorting algorithms.
 The algorithm will stop once the array is sorted.
 
-Quick Sort:
-1) The rightmost element in the array or subarray will be used as the pivot.
-2) All elements in the array or subarray that are equal to the pivot will be moved to the subarray.
-
 Contents:
 index.html
 README.md 
