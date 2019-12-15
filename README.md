@@ -1,4 +1,4 @@
-# CSUF-CPSC-335-project3-SortRace
+# CPSC-335-project3-SortRace
 Sorting Algorithm Race
 CPSC 335
 CSUF Fall 2019
@@ -16,14 +16,13 @@ Quick Sort:
 2) All elements in the array or subarray that are equal to the pivot will be moved to the subarray.
 
 Contents:
-index.html = The main html file. Drag and drop file into a web browser to run sorting race.
-README.txt = Instruction file.
-assets:
-Manager.js = Javascript functions to manage sorting algorithms and user interface.
-MergeSort.js = Merge Sort functions.
-QuickSort.js = Quick Sort functions.
-SelectionSort.js = Selection Sort functions.
-style.css = javascript style details.
+index.html
+README.md 
+Manager.js contains Javascript functions to manage sorting algorithms and user interface.
+MergeSort.js contains Merge Sort functions.
+QuickSort.js contains Quick Sort functions.
+SelectionSort.js contains Selection Sort functions.
+style.css contains javascript style details.
 
 External Requirements:
 Web browser
